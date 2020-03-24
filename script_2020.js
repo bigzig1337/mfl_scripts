@@ -744,7 +744,7 @@ jQuery("#wowslider-container1").wowSlider({
     autoPlayVideo: false,
     playPause: true,
     stopOnHover: true,
-    loop: false,
+    loop: true,
     bullets: 1,
     caption: true,
     captionEffect: "parallax",
