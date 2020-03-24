@@ -26,7 +26,7 @@ jQuery.fn.wowSlider = function(am) {
         effect: "fade",
         prev: "",
         next: "",
-        duration: 1000,
+        duration: 500,
         delay: 20 * 100,
         captionDuration: 1000,
         captionEffect: "none",
