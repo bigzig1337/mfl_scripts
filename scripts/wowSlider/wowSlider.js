@@ -30,64 +30,6 @@ jQuery.fn.wowSlider = function(am) {
         delay: 20 * 100,
         captionDuration: 1000,
         captionEffect: "none",
-
-Your Selected Options (JSON):
-
-Not pretty enough for you?
-Browser extensions and other uses
-
-    A bookmarklet (drag it to your bookmarks) by Ichiro Hiroshi to see all scripts used on the page,
-    Chrome, in case the built-in CSS and javascript formatting isn't enough for you:
-    — Quick source viewer by Tomi Mickelsson (github, blog),
-    — Javascript and CSS Code beautifier by c7sky,
-    — jsbeautify-for-chrome by Tom Rix (github),
-    — Pretty Beautiful JavaScript by Will McSweeney
-    — Stackoverflow Code Beautify by Making Odd Edit Studios (github).
-    Firefox: Javascript deminifier by Ben Murphy, to be used together with the firebug (github),
-    Safari: Safari extension by Sandro Padin,
-    Opera: Readable JavaScript (github) by Dither,
-    Opera: Source extension by Deathamns,
-    Sublime Text 2/3: CodeFormatter, a python plugin by Avtandil Kikabidze, supports HTML, CSS, JS and a bunch of other languages,
-    Sublime Text 2/3: HTMLPrettify, a javascript plugin by Victor Porof,
-    Sublime Text 2: JsFormat, a javascript formatting plugin for this nice editor by Davis Clark,
-    vim: sourcebeautify.vim, a plugin by michalliu (requires node.js, V8, SpiderMonkey or cscript js engine),
-    vim: vim-jsbeautify, a plugin by Maksim Ryzhikov (node.js or V8 required),
-    Emacs: Web-beautify formatting package by Yasuyuki Oka,
-    Komodo IDE: Beautify-js addon by Bob de Haas (github),
-    C#: ghost6991 ported the javascript formatter to C#,
-    Go: ditashi has ported the javascript formatter to golang,
-
-    Beautify plugin (github) by HookyQR for the Visual Studio Code IDE,
-    Fiddler proxy: JavaScript Formatter addon,
-    gEdit tips by Fabio Nagao,
-    Akelpad extension by Infocatcher,
-    Beautifier in Emacs write-up by Seth Mason,
-    Cloud9, a lovely IDE running in a browser, working in the node/cloud, uses jsbeautifier (github),
-    Devenir Hacker App, a non-free JavaScript packer for Mac,
-    REST Console, a request debugging tool for Chrome, beautifies JSON responses (github),
-    mitmproxy, a nifty SSL-capable HTTP proxy, provides pretty javascript responses (github).
-    wakanda, a neat IDE for web and mobile applications has a Beautifier extension (github).
-    Burp Suite now has a beautfier extension, thanks to Soroush Dalili,
-    Netbeans jsbeautify plugin by Drew Hamlett (github).
-    brackets-beautify-extension for Adobe Brackets by Drew Hamlett (github),
-    codecaddy.net, a collection of webdev-related tools, assembled by Darik Hall,
-    editey.com, an interesting and free Google-Drive oriented editor uses this beautifier,
-    a beautifier plugin for Grunt by Vishal Kadam,
-    SynWrite editor has a JsFormat plugin (rar, readme),
-    LIVEditor, a live-editing HTML/CSS/JS IDE (commercial, Windows-only) uses the library,
-
-Doing anything interesting? Write us to team@beautifier.io so we can add your project to the list.
-
-Written by Einar Lielmanis, maintained and evolved by Liam Newman.
-
-We use the wonderful CodeMirror syntax highlighting editor, written by Marijn Haverbeke.
-
-Made with a great help of Jason Diamond, Patrick Hof, Nochum Sossonko, Andreas Schneider,
-Dave Vasilevsky, Vital Batmanov, Ron Baldwin, Gabriel Harrison, Chris J. Shull, Mathias Bynens,
-Vittorio Gambaletta, Stefano Sanfilippo and Daniel Stockman.
-
-Run the tests
-
         height: "100%",
         transform: /Firefox/.test(C) ? "" : "translate3d(0,0,0)"
     });
