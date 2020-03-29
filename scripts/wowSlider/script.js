@@ -744,15 +744,15 @@ jQuery("#wowslider-container1").wowSlider({
     //autoPlayVideo: false,
     //playPause: true,
     //stopOnHover: true,
-    loop: true,
+    loop: false,
     bullets: true,
     caption: true,
     //captionEffect: "parallax",
-    controls: true
+    controls: true,
     //controlsThumb: false,
     //responsive: 1,
     //fullScreen: false,
     //gestures: 2,
-    //onBeforeStep: 0,
+    onBeforeStep: 0,
     //images: 0
 });
