@@ -733,7 +733,7 @@ function ws_fade(c, a, b) {
 // http://javascript-source.com
 //***********************************************
 jQuery("#wowslider-container1").wowSlider({
-    effect: "random",
+    effect: "fold",
     prev: "",
     next: "",
     duration: 25 * 100,
