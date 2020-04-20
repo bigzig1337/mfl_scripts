@@ -752,7 +752,7 @@ jQuery("#wowslider-container1").wowSlider({
     controlsThumb: false,
     responsive: 1,
     fullScreen: false,
-    gestures: 0,
+    gestures: 1,
     onBeforeStep: 0,
     images: 0
 });
