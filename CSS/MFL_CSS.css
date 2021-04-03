@@ -5533,13 +5533,13 @@ div.ws-title {
 #wowslider-container1.ws_gestures {
     cursor: -webkit-grab;
     cursor: -moz-grab;
-    cursor: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAABwSURBVEjH7ZJBEsAgCAMT/v/n9NCOSqe2oD2yNx1JggB4BCEFWyFASP2KMQE7ywWhe/tTRGCGogLk02tFctiW/SUgaMyQG4PdPzDn31rQbMb8FiAXgvsEJNax1yVlVGAjA93apP3HFhZTGIqiKH7iADB6HxPlHdNVAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE0LTA3LTA3VDEzOjQ5OjEwKzAyOjAwm7WiFAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNC0wNy0wN1QxMzo0OToxMCswMjowMOroGqgAAAAASUVORK5CYII="), move;
+    cursor: url(""), move;
 }
 
 #wowslider-container1.ws_gestures.ws_grabbing {
     cursor: -webkit-grabbing;
     cursor: -moz-grabbing;
-    cursor: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAABaSURBVEjH7ZMxCkAhDEOT8u9/5TpJ+xWkFse8IYutJgEB8RCHL1qCc90BEFnT6QH7mwgFHBUf8wJyS1TDLuc3vmighx37LZdIth3E5hKj9n6O0HRh+oJCiFcMxRUUDxR1CTMAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTQtMDctMDdUMTM6NDk6MzgrMDI6MDDqf+sOAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE0LTA3LTA3VDEzOjQ5OjM4KzAyOjAwmyJTsgAAAABJRU5ErkJggg=="), move;
+    cursor: url(""), move;
 }
 
 /* hide controls when video start play */
@@ -5612,7 +5612,7 @@ div.ws-title {
     margin-left: 0;
     width: 20px;
     height: 20px;
-    background: url(https://www.dagrafixdesigns.com/Images/2008/DA_2016/DA_Pro16/bullet.png) right top;
+    background: url(https://i.imgur.com/z9bx8T0.png) right top;
     float: left;
     text-indent: -4000px;
     position: relative;
@@ -5620,7 +5620,7 @@ div.ws-title {
 }
 
 * html #wowslider-container1 .ws_bullets a {
-    background-image: url(https://www.dagrafixdesigns.com/Images/2008/DA_2016/DA_Pro16/bullet.gif);
+    background-image: url(https://i.imgur.com/z9bx8T0.png);
 }
 
 #wowslider-container1 .ws_bullets a.ws_selbull {
@@ -5675,12 +5675,12 @@ div.ws-title {
 }
 
 #wowslider-container1 .ws_pause {
-    background-image: url(https://www.dagrafixdesigns.com/Images/2008/DA_2016/DA_Pro16/pause.png);
+    background-image: url();
     display: none
 }
 
 #wowslider-container1 .ws_play {
-    background-image: url(https://www.dagrafixdesigns.com/Images/2008/DA_2016/DA_Pro16/play.png);
+    background-image: url();
     display: none
 }
 
