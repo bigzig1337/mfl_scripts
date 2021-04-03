@@ -5609,14 +5609,13 @@ div.ws-title {
 }
 
 #wowslider-container1 .ws_bullets a {
-    margin-left: 0;
-    width: 20px;
-    height: 20px;
-    background: url(https://i.imgur.com/z9bx8T0.png) right top;
+    max-width 100%;
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    background: url() right top;
     float: left;
-    text-indent: -4000px;
-    position: relative;
-    color: transparent;
+    opacity: 70%;
 }
 
 #wowslider-container1 .ws_bullets a {
