@@ -5619,7 +5619,7 @@ div.ws-title {
     color: transparent;
 }
 
-* html #wowslider-container1 .ws_bullets a {
+#wowslider-container1 .ws_bullets a {
     background-image: url(https://i.imgur.com/z9bx8T0.png);
 }
 
@@ -5640,13 +5640,13 @@ div.ws-title {
     z-index: 60;
     height: 7.5em;
     width: 6em;
-    background-image: url(https://www.dagrafixdesigns.com/Images/2008/DA_2016/DA_Pro16/arrows.png);
+    background-image: url();
     background-size: 100%;
 }
 
 * html #wowslider-container1 a.ws_next,
 * html #wowslider-container1 a.ws_prev {
-    background-image: url(https://www.dagrafixdesigns.com/Images/2008/DA_2016/DA_Pro16/arrows.gif);
+    background-image: url();
     filter: progid:DXImageTransform.Microsoft.Alpha(opacity=70);
 }
 
@@ -5896,7 +5896,7 @@ div.ws-title {
     bottom: -7px;
     margin-left: -1px;
     left: 43px;
-    background: url(https://www.dagrafixdesigns.com/Images/2008/DA_2016/DA_Pro16/triangle.png);
+    background: url();
     width: 15px;
     height: 6px;
 }
