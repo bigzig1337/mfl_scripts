@@ -1017,7 +1017,7 @@ ul#replacetabs > li.tablink.img7 > a > img {display:none!important;}
 
 #tabcontent0 #league_chat {height:241px}
 #tabcontent0 #league_chat dt:first-of-type {width:650px;}
-#tabcontent0 #league_chat .franchiseicon {height:30px;width:100px}
+#tabcontent0 #league_chat .franchiseicon {height:5px;width:16px}
 #tabcontent0 #league_chat,#tabcontent0 #news_articles {padding:5px;}
 
 #custom-reports.quick .reports-content .report {height:auto;}
